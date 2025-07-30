@@ -6,7 +6,7 @@ A clean and modern web-based To-Do List that helps you plan and organize your ta
 - CSS – Styled the components with a clean, modern look including animations, hover effects, and responsive design to ensure it works well on all screen sizes.  
 - JavaScript – Powered the dynamic functionality:   
   * Task creation, deletion, and editing  
-  * Filtering tasks by Daily, Weekly, or Monthly view   
+  * Filtering tasks by Daily, Weekly, or Monthly view
   * Calendar interaction for setting deadlines  
   * Local storage to persist user data across sessions  
 
