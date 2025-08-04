@@ -3,7 +3,7 @@ A clean and modern web-based To-Do List that helps you plan and organize your ta
 
 ## Web Technologies:  
 - HTML – Structured the layout and content of the to-do list and calendar interface.  
-- CSS – Styled the components with a clean, modern look including animations, hover effects, and responsive design to ensure it works well on all screen sizes.  
+- CSS – Styled the components with a clean, modern look, hover effects, and responsive design to ensure it works well on all screen sizes.  
 - JavaScript – Powered the dynamic functionality:   
   * Task creation, deletion, and editing  
   * Filtering tasks by Daily, Weekly, or Monthly view
@@ -14,6 +14,5 @@ A clean and modern web-based To-Do List that helps you plan and organize your ta
 📆 Calendar-based task view  
 ✅ Task categorization: Daily, Weekly, Monthly   
 🎨 Modern and minimalistic UI  
-🔔 Smart reminders (optional)  
-🌓 Dark/Light mode support (if applicable)  
+🌓 Dark/Light mode support  
 
