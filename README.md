@@ -14,5 +14,5 @@ A clean and modern web-based To-Do List that helps you plan and organize your ta
 📆 Calendar-based task view  
 ✅ Task categorization: Daily, Weekly, Monthly   
 🎨 Modern and minimalistic UI  
-🌓 Dark/Light mode support  
+🌓 Dark/Light mode support.
 
