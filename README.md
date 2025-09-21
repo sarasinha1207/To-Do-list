@@ -9,7 +9,7 @@ A clean and modern web-based To-Do List that helps you plan and organize your ta
   * Filtering tasks by Daily, Weekly, or Monthly view
   * Calendar interaction for setting deadlines  
   * Local storage to persist user data across sessions
- 
+
 ## ✨ Features:  
 📆 Calendar-based task view  
 ✅ Task categorization: Daily, Weekly, Monthly   
